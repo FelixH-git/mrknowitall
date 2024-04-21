@@ -5,3 +5,5 @@ basically just the abstract
 # TODO
 add (use requests) as a parameter instead of webdriver cause its annoying, actually read the paper instead of just the abstract, but token length of gpt4 too small
 
+![alt text](![image](https://github.com/FelixH-git/mrknowitall/assets/85492626/fa996a2c-86c3-4524-857e-cfa4837cdd68)
+)
