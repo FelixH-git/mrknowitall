@@ -59,7 +59,7 @@ class Crawler():
                 model="gpt-4",
             )      
             msg = chat_completion.choices[0].message.content
-            self.summarise(msg)
+            self.search_and_summarise(msg)
             self.write_to_file()
     
     def write_to_file(self):
